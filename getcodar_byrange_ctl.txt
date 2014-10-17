@@ -1,0 +1,12 @@
+[2013,1,6,16,0]  #time period
+[38.6,38.0,-72.0,-74.0] #latmax,latmin,lonmax,lonmin
+[1,1]  #number, interval hour
+[3]  #how many percent arrows you want to plot on picture, from 1-100.
+[3]  #choose one url to get codar
+1,http://tashtego.marine.rutgers.edu:8080/thredds/dodsC/cool/codar/totals/macoora6km_fmrc/Macoora_6km_Totals_(FMRC)_best.ncd" 
+2,http://tds.marine.rutgers.edu:8080/thredds/dodsC/cool/codar/totals/sw06" 
+3,http://tds.marine.rutgers.edu:8080/thredds/dodsC/cool/codar/totals/macoora6km"          
+4,http://tds.marine.rutgers.edu:8080/thredds/dodsC/cool/codar/totals/macoora8km"   
+5,http://tds.marine.rutgers.edu:8080/thredds/dodsC/cool/codar/totals/macoora6km_clone"
+6,http://tds.marine.rutgers.edu:8080/thredds/dodsC/cool/codar/totals/5Mhz_6km_realtime_fmrc/Maracoos_5MHz_6km_Totals-FMRC_best.ncd"
+#this one works with getsst_codar,getcodar
