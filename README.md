@@ -9,3 +9,14 @@ User should cheak or modify control file 'getcodar_bydrifter_ctl.txt' or 'getcod
 running the process.
 
 A picture would be generated after you running a process.
+
+
+getcodar_drifter.py  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      plot raw drifter and codar data in a picture
+
+getcodar.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      plot codar data
+
+getsst_codar_drifter.py  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     plot raw drifter, codar and observed sst in a picture
+
+getsst_codar.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      plot observed sst and codar in a picture
+
+gettrack_codar.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      according codar data , estimate a drifter track
